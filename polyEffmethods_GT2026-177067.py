@@ -1,8 +1,7 @@
 """
 Reference implementation accompanying:
 
-Ferrer-Vidal España-Heredia, L.E., "REVISITING THE POLYTROPIC EFFICIENCY AND ITS PRACTICAL USE," Proceedings of the ASME Turbo Expo 2026,
-Paper No. GT2026-177067.
+Ferrer-Vidal España-Heredia, L.E., "REVISITING THE POLYTROPIC EFFICIENCY AND ITS PRACTICAL USE," 
 
 This script demonstrates several commonly used implementations of
 polytropic efficiency for compressor performance calculations, including
