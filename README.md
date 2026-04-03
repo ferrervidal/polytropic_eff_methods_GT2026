@@ -1,9 +1,9 @@
-# polytropic_eff_methods_GT2026
-Reference implementation accompanying ASME paper on polytropic efficiency.
+# polytropic_eff_methods_LFV2026
+Reference implementation accompanying paper on polytropic efficiency.
 
 This repository contains reference Python code accompanying the paper:
 
-Ferrer-Vidal España-Heredia, L.E., "REVISITING THE POLYTROPIC EFFICIENCY AND ITS PRACTICAL USE,"
+Ferrer-Vidal España-Heredia, L.E., "REVISITING THE POLYTROPIC EFFICIENCY AND ITS PRACTICAL USE" (under review)
 
 ## Purpose
 
@@ -17,11 +17,11 @@ generality.
 
 ## Contents
 
-- `polyEffmethods_GT2026-177067.py`  
+- `polyEffmethods_LFV2026.py`  
   Reference implementation of the polytropic efficiency methods discussed
   in the paper.
 
-- `thermoWF_GT2026.py`  
+- `thermoWF_LFV2026.py`  
   Minimal thermodynamic property module and state container used by the
   reference implementation.
 
